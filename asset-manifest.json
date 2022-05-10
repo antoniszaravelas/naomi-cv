@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/naomi-cv/static/css/main.ba1f2736.css",
+    "main.js": "/naomi-cv/static/js/main.7f1a21fd.js",
+    "index.html": "/naomi-cv/index.html",
+    "main.ba1f2736.css.map": "/naomi-cv/static/css/main.ba1f2736.css.map",
+    "main.7f1a21fd.js.map": "/naomi-cv/static/js/main.7f1a21fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba1f2736.css",
+    "static/js/main.7f1a21fd.js"
+  ]
+}
